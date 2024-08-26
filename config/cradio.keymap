@@ -106,13 +106,13 @@
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
         //│          │  1       │  2       │  3       │          │   │ HOME     │ PAGE DN  │ UP       │ PAGE UP  │          │ 
-            &trans     &kp N1     &kp N2     &kp N3     &trans         &kp HOME   &kp PG_DN  &kp UARW   &kp PG_UP  &kp K_BACK
+            &kp TAB     &kp N1     &kp N2     &kp N3     &trans         &kp HOME   &kp PG_DN  &kp UARW   &kp PG_UP  &kp K_BACK
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │  4       │  5       │  6       │          │   │ END      │ LEFT     │ DOWN     │ RIGHT    │          │
-            &trans     &kp N4     &kp N5     &kp N6     &trans         &kp END    &kp LARW   &kp DARW   &kp RARW   &kp K_FORWARD
+            &caps_word &kp N4     &kp N5     &kp N6     &trans         &kp END   &kp LARW   &kp DARW   &kp RARW   &kp K_FORWARD
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │  7       │  8       │  9       │  0       │   │          │ VOl DOWN │ VOL UP   │PLAY PAUSE│          │
-            &trans     &kp N7     &kp N8     &kp N9     &kp N0         &trans  &kp C_VOL_DN &kp C_VOL_UP &kp C_PP  &trans
+            &kp LSHFT  &kp N7     &kp N8     &kp N9     &kp N0         &trans   &kp C_VOL_DN &kp C_VOL_UP &kp C_PP  &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &kp TAB    &trans         &trans     &kp ENTER 
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
