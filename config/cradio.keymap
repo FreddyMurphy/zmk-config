@@ -112,7 +112,7 @@
             &caps_word &kp N4     &kp N5     &kp N6     &trans         &kp END   &kp LARW   &kp DARW   &kp RARW   &kp K_FORWARD
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │  1       │  2       │  3       │  0       │   │          │ VOl DOWN │ VOL UP   │PLAY PAUSE│          │
-            &kp LSHFT  &kp N1     &kp N2     &kp N3     &kp N0         &trans   &kp C_VOL_DN &kp C_VOL_UP &kp C_PP  &RALT
+            &kp LSHFT  &kp N1     &kp N2     &kp N3     &kp N0         &trans   &kp C_VOL_DN &kp C_VOL_UP &kp C_PP  &kp RALT
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &kp TAB    &trans         &trans     &kp ENTER 
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
