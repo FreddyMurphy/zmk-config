@@ -115,7 +115,7 @@
             &kp LSHFT  &kp N1     &kp N2     &kp N3     &kp N0         &trans   &kp C_VOL_DN &kp C_VOL_UP &kp C_PP  &kp RALT
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
         //                                 │  TAB     │  WINDOWS │   │          │ ENTER    │
-                                             &kp TAB    &sk LGUI       &trans     &kp ENTER 
+                                             &kp LCTRL  &sk LGUI       &trans     &kp ENTER 
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
